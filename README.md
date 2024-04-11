@@ -1,14 +1,10 @@
-# Cryptographic Autonomy License version 1.0
+# DecentraLicense
 
-*This Cryptographic Autonomy License (the “License”) applies to any Work whose owner has marked it with any of the following notices:*
+*This DecentraLicense (the “License”) applies to any Work whose owner has marked it with any of the following notices:*
 
-*“Licensed under the Cryptographic Autonomy License version 1.0,” or*
+*“Licensed under the DecentraLicense version 1.0,” or*
 
-*“SPDX-License-Identifier: CAL-1.0,” or*
-
-*“Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception,” or*
-
-*“SPDX-License-Identifier: CAL-1.0 with Combined-Work-Exception.”*
+*“Licensed under the DecentraLicense version 1.0, with Combined Work Exception”*
 
 ------
 
@@ -34,7 +30,9 @@ This License is automatically offered to every person and organization. You show
 
 ### 2.3. Compliance and Remedies
 
-Any failure to act according to the terms and conditions of this License places Your use of the Work outside the scope of the License and infringes the intellectual property rights of the Licensor. In the event of infringement, the terms and conditions of this License may be enforced by Licensor under the intellectual property laws of any jurisdiction to which You are subject. You also agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce the terms and conditions of this License against You via specific performance.
+Any failure to act according to the terms and conditions of this License places Your use of the Work outside the scope of the License and infringes the rights of the Licensor. In the event of breach, the terms and conditions of this License may be enforced by Licensor under the laws of any jurisdiction to which You are subject. You also agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce the terms and conditions of this License against You via specific performance. 
+
+To the fullest extent available under the law of any jurisdiction to which You are subject, You also agree that a Recipient (as an intended third-party beneficiary) receives a benefit in the form of the ability to maintain exclusive control of private keys under the terms and conditions of this License.
 
 ## 3. Permissions and Conditions
 
@@ -96,17 +94,49 @@ You may not, by the use of cryptographic methods applied to anything provided to
 
 You may not contractually restrict a Recipient's ability to independently exercise the permissions granted under this License. You waive any legal power to forbid circumvention of technical protection measures that include use of the Work, and You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
 
-### 4.3. Provide Notices and Attribution
+### 4.3. Decentralized Code and Decentralized Systems
+
+You must only run Decentralized Code if: 
+
+> a) it is run by a Decentralized System; and
+> 
+> b) all the data referenced by Decentralized Code is stored on a Decentralized System.
+
+“Decentralized Code” is a Source Code file marked by the Licensor as “Decentralized Code”.
+
+“Decentralized System” is a system operating solely in accordance with publicly available Rules where any person or organisation: 
+
+> a) only participates in the system by freely opting in;
+> 
+> b) can interpret system data by reference to the Rules; and
+> 
+> c) can obtain a copy of the system data, provided in a commonly used electronic form, accessible in accordance with the Rules.
+
+“Rule” is any unambiguous and human comprehensible: 
+
+> a) rule that results in a deterministic outcome when implemented, in a commonly used electronic form; or
+> 
+> b) configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
+
+### 4.4. Maintain Private Key Exclusive Control
+
+You cannot use the permissions given under this License to provide a Recipient with functionality using the Work that: 
+
+> a) would cause the loss of exclusive control of a private key by a private key holder with exclusive control of a private key; or 
+>
+> b) deals with private keys except by using a Decentralized System.
+
+### 4.5. Provide Notices and Attribution
 
 You must retain all licensing, authorship, or attribution notices contained in the Source Code (the “Notices”), and provide all such Notices to each Recipient, together with a statement acknowledging the use of the Work. Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code.
 
-### 4.4. Scope of Conditions in this License
+### 4.6. Scope of Conditions in this License
 
 You are required to uphold the conditions of this License only relative to those who are Recipients of the Work from You.  Other than providing Recipients with the applicable Notices, Access to Source Code, and a copy of and full control of their User Data, nothing in this License requires You to provide processing services to or engage in network interactions with anyone. 
 
-### 4.5. Combined Work Exception
+### 4.7. Combined Work Exception
 
-As an exception to condition that You provide Recipients Access to Source Code, any Source Code files marked by the Licensor as having the “Combined Work Exception,” or any object code exclusively resulting from Source Code files so marked, may be combined with other Software into a “Larger Work.” So long as you comply with the requirements to provide Recipients the applicable Notices and Access to the Source Code provided to You by Licensor, and you provide Recipients access to their User Data and do not limit Recipient’s ability to independently work with their User Data, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
+As an exception to condition that You provide Recipients Access to Source Code, any Source Code files not marked by the Licensor as “Decentralized Code” and as having the “Combined Work Exception,” or any object code exclusively resulting from Source Code files so marked, may be combined with other Software into a “Larger Work.” So long as you: a) comply with the requirements to provide Recipients the applicable Notices and Access to the Source Code provided to You by Licensor, b) you provide Recipients access to their User Data and do not limit Recipient’s ability to independently work with their User Data, c) you comply with the requirements in relation to Decentralized Code and Decentralized Systems, and d) Recipients are able to maintain exclusive control of private cryptographic keys, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
 
 ## 5. Term and Termination
 
@@ -156,4 +186,4 @@ If any provision of this License is held to be unenforceable, such provision sha
 
 ### 7.7. License for the Text of this License
 
-The text of this license is released under the Creative Commons Attribution-ShareAlike 4.0 International License, with the caveat that any modifications of this license may not use the name “Cryptographic Autonomy License” or any name confusingly similar thereto to describe any derived work of this License.
+The text of this license is released under the Creative Commons Attribution-ShareAlike 4.0 International License, with the caveat that any modifications of this license may not use the name “DecentraLicense” or any name confusingly similar thereto to describe any derived work of this License.
