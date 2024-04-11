@@ -118,7 +118,7 @@ You must only run Decentralized Code if:
 > 
 > b) configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
 
-### 4.3. Maintain Private Key Exclusive Control
+### 4.4. Maintain Private Key Exclusive Control
 
 You cannot use the permissions given under this License to provide a Recipient with functionality using the Work that: 
 
@@ -126,15 +126,15 @@ You cannot use the permissions given under this License to provide a Recipient w
 >
 > b) deals with private keys except by using a Decentralized System.
 
-### 4.4. Provide Notices and Attribution
+### 4.5. Provide Notices and Attribution
 
 You must retain all licensing, authorship, or attribution notices contained in the Source Code (the “Notices”), and provide all such Notices to each Recipient, together with a statement acknowledging the use of the Work. Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code.
 
-### 4.5. Scope of Conditions in this License
+### 4.6. Scope of Conditions in this License
 
 You are required to uphold the conditions of this License only relative to those who are Recipients of the Work from You.  Other than providing Recipients with the applicable Notices, Access to Source Code, and a copy of and full control of their User Data, nothing in this License requires You to provide processing services to or engage in network interactions with anyone. 
 
-### 4.6. Combined Work Exception
+### 4.7. Combined Work Exception
 
 As an exception to condition that You provide Recipients Access to Source Code, any Source Code files not marked by the Licensor as “Decentralized Code” and as having the “Combined Work Exception,” or any object code exclusively resulting from Source Code files so marked, may be combined with other Software into a “Larger Work.” So long as you: a) comply with the requirements to provide Recipients the applicable Notices and Access to the Source Code provided to You by Licensor, b) you provide Recipients access to their User Data and do not limit Recipient’s ability to independently work with their User Data, c) you comply with the requirements in relation to Decentralized Code and Decentralized Systems, and d) Recipients are able to maintain exclusive control of private cryptographic keys, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
 
