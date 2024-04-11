@@ -30,9 +30,7 @@ This License is automatically offered to every person and organization. You show
 
 ### 2.3. Compliance and Remedies
 
-Any failure to act according to the terms and conditions of this License places Your use of the Work outside the scope of the License and infringes the rights of the Licensor. In the event of breach, the terms and conditions of this License may be enforced by Licensor under the laws of any jurisdiction to which You are subject.
-
-You also agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce the terms and conditions of this License against You via specific performance. 
+Any failure to act according to the terms and conditions of this License places Your use of the Work outside the scope of the License and infringes the rights of the Licensor. In the event of breach, the terms and conditions of this License may be enforced by Licensor under the laws of any jurisdiction to which You are subject. You also agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce the terms and conditions of this License against You via specific performance. 
 
 To the fullest extent available under the law of any jurisdiction to which You are subject, You also agree that a Recipient (as an intended third-party beneficiary) receives a benefit in the form of the ability to maintain exclusive control of private keys under the terms and conditions of this License.
 
@@ -98,17 +96,35 @@ You may not contractually restrict a Recipient's ability to independently exerci
 
 ### 4.3. Decentralized Code and Decentralized Systems
 
-You must only run Decentralized Code if: a) it is run by a Decentralized System, and b) all the data referenced by Decentralized Code is stored on a Decentralized System.
+You must only run Decentralized Code if: 
+
+> a) it is run by a Decentralized System; and
+> 
+> b) all the data referenced by Decentralized Code is stored on a Decentralized System.
 
 “Decentralized Code” is a Source Code file marked by the Licensor as “Decentralized Code”.
 
-“Decentralized System” is a system operating solely in accordance with publicly available Rules where any person or organisation: a) only participates in the system by freely opting in, (b) can interpret system data by reference to the Rules, (c) can obtain a copy of the system data, provided in a commonly used electronic form, accessible in accordance with the Rules.
+“Decentralized System” is a system operating solely in accordance with publicly available Rules where any person or organisation: 
 
-“Rule” is an unambiguous and human comprehensible: a) rule that results in a deterministic outcome when implemented, in a commonly used electronic form, and b) any configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
+> a) only participates in the system by freely opting in;
+> 
+> b) can interpret system data by reference to the Rules; and
+> 
+> c) can obtain a copy of the system data, provided in a commonly used electronic form, accessible in accordance with the Rules.
+
+“Rule” is an unambiguous and human comprehensible: 
+
+> a) rule that results in a deterministic outcome when implemented, in a commonly used electronic form; and
+> 
+> b) any configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
 
 ### 4.3. Maintain Private Key Exclusive Control
 
-You cannot use the permissions given under this License to provide a Recipient with functionality using the Work that: a) would cause the loss of exclusive control of a private key by a private key holder with exclusive control of a private key, or b) deals with private keys except by using a Decentralized System.
+You cannot use the permissions given under this License to provide a Recipient with functionality using the Work that: 
+
+> a) would cause the loss of exclusive control of a private key by a private key holder with exclusive control of a private key; or 
+>
+> b) deals with private keys except by using a Decentralized System.
 
 ### 4.4. Provide Notices and Attribution
 
