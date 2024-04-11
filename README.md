@@ -112,11 +112,11 @@ You must only run Decentralized Code if:
 > 
 > c) can obtain a copy of the system data, provided in a commonly used electronic form, accessible in accordance with the Rules.
 
-“Rule” is an unambiguous and human comprehensible: 
+“Rule” is any unambiguous and human comprehensible: 
 
-> a) rule that results in a deterministic outcome when implemented, in a commonly used electronic form; and
+> a) rule that results in a deterministic outcome when implemented, in a commonly used electronic form; or
 > 
-> b) any configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
+> b) configuration information, documentation, help materials, and any information reasonably necessary for a Recipient skilled in the art to independently comprehend the rule.
 
 ### 4.3. Maintain Private Key Exclusive Control
 
